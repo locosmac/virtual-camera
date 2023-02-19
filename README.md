@@ -14,6 +14,8 @@ Since the virtual camera is written using a combination of C++ and .NET, you wil
 
 Once you installed the virtual camera, there will be a shortcut on your desktop called "Virtual Camera". Use it to start the example camera app. Then tap start camera to install a virtual camera. Now you can open another application that leverages a camera feed and select the camera. Once the camera feed is shown, try changing the text in the camera app. To shut down the camera, press the stop button or simply close the camera app.
 
+![Screenshot of a Virtual Camera in Microsoft Teams](Screenshot.jpg)
+
 ## Developing Custom Applications
 
 The git repository contains a project for Visual Studio 2022 that demonstrates the APIs of the .NET assembly. It implements a simple animation that is displayed when the camera is started and used.
